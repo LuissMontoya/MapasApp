@@ -18,24 +18,24 @@ export class PropiedadesComponent  {
 
   propiedades: Propiedad[] = [
     {
-      titulo: 'Casa residencial, Canadá',
-      descripcion: 'Bella propiedad en Katana, Canadá',
-      lngLat: [ -75.92722289474008, 45.280015511264466]
+      titulo: 'Monserrate',
+      descripcion: ' Monserrate tiene una altitud de 3152 m y se ubica sobre la cordillera oriental.​',
+      lngLat: [ -74.05756924473953, 4.60608369403939]
     },
     {
-      titulo: 'Casa de playa, México',
-      descripcion: 'Hermosa casa de playa en Acapulco, México',
-      lngLat: [ -99.91287720907991, 16.828940930185748]
+      titulo: 'Museo Nacional de Colombia',
+      descripcion: 'Gran museo con restaurante, tienda y más de 20.000 objetos que datan desde el siglo XVI hasta la actualidad.',
+      lngLat: [ -74.06825547111801, 4.616554308263904]
     },
     {
-      titulo: 'Apartamento, Argentina',
-      descripcion: 'Lujoso apartamento en el corazón de Buenos Aires, Argentina',
-      lngLat: [ -58.430166677283445, -34.57150108832866 ]
+      titulo: 'Centro comercial Plaza Central',
+      descripcion: 'Un lugar inmenso hermoso distingue muchas personas de otros paises encuentra de todo un poco, super elegante ',
+      lngLat: [ -74.11812315542237, 4.632723586421072 ]
     },
     {
-      titulo: 'Local comercial, España',
-      descripcion: 'Local comercial disponible en Madrid, España, cerca de El Jardín Secreto.',
-      lngLat: [ -3.7112735618380177, 40.42567285425766 ]
+      titulo: 'Hospital Universitario Clínica San Rafael',
+      descripcion: 'Cra. 8 ## 17-44 Sur, Bogotá, Cundinamarca',
+      lngLat: [ -74.09187432749464, 4.578911313705159 ]
     },
   ]
 
